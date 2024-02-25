@@ -1,12 +1,11 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/91123318?v=4"  />
-</div>
+<img align="left" height="150" src="https://avatars.githubusercontent.com/u/91123318?v=4"  />
 
 ###
 
 <div align="center">
-  <img src="https://twitter.com/akkpk933" height="25" alt="twitter logo"  />
-  <img src="https://in.linkedin.com/in/adityakumarkushwaha" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
 ###
