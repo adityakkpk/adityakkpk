@@ -1,5 +1,3 @@
-<img align="left" height="150" src="https://avatars.githubusercontent.com/u/91123318?v=4"  />
-
 ###
 
 <div align="center">
@@ -33,13 +31,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="50" alt="androidstudio logo"  />
-  <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="c logo"  />
-  <img width="34" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
   <img width="34" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="34" />
