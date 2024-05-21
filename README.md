@@ -4,7 +4,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 
 ## About Me
 
-- 🎖️ [My Portfolio](github.com/adityakkpk)!
+- 🎖️ [My Portfolio](https://github.com/adityakkpk)!
 - 💻 Self-taught developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
 - 🔧 Proficient in HTML, CSS, and JavaScript.
