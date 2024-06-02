@@ -5,10 +5,11 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 ## About Me
 
 - 🎖️ [My Portfolio](https://my-portfolio-git-main-aditya-kumar-kushwahas-projects.vercel.app/)!
+- 📝 [My Resume](https://my-portfolio-git-main-aditya-kumar-kushwahas-projects.vercel.app/)!
 - 💻 Self-taught developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
-- 🔧 Proficient in HTML, CSS, and JavaScript.
-- 🌱 Currently learning MERN.
+- 🔧 Proficient in HTML, CSS, JavaScript and React.
+- 🌿 Currently learning MERN Stck.
 - 🚀 Eager to contribute to innovative projects and collaborate with like-minded individuals.
    
 
@@ -21,8 +22,8 @@ Feel free to explore more projects on my [Repo](https://github.com/adityakkpk?ta
 Let's connect and collaborate! You can reach me via:
 
 - 📧 Email: akkpk933@gmail.com
-- 💬 LinkedIn: [Link](https://www.linkedin.com/in/adityakumarkushwaha/)!
-- 🐦 Twitter: [Link](https://twitter.com/akkpk)!
+- 💬 LinkedIn: [aditya](https://www.linkedin.com/in/adityakumarkushwaha/)!
+- 🐦 Twitter: [akkpk933](https://twitter.com/akkpk)!
 
 Looking forward to hearing from you!
 
