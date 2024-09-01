@@ -4,7 +4,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 
 ## About Me
 
-- 🎖️ [My Portfolio](https://my-portfolio-git-main-aditya-kumar-kushwahas-projects.vercel.app/)!
+- 🎖️ [My Portfolio](https://akk-portfolio.vercel.app/)!
 - 📝 [My Resume](https://drive.google.com/file/d/1YVlkxDDz3R1tl2dCH3NaGy55vmIr5O3f/view?usp=drive_link)!
 - 💻 Self-taught developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
