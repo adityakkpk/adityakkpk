@@ -5,7 +5,7 @@ A Computer Science Engineering Student, currently learning Full Stack Web Develo
 ## About Me
 
 - 🎖️ [My Portfolio](https://akk-portfolio.vercel.app/)!
-- 📝 [My Resume](https://drive.google.com/file/d/1YVlkxDDz3R1tl2dCH3NaGy55vmIr5O3f/view?usp=drive_link)!
+- 📝 [My Resume](https://drive.google.com/file/d/1JEs4UrE4gowLp3JDD9MNgD--vpqXT20g/view)!
 - 💻 Self-taught developer with a love for problem-solving.
 - 🌱 Always learning and exploring new technologies.
 - 🔧 Proficient in HTML, CSS, JavaScript and React.
